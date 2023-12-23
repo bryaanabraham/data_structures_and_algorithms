@@ -5,3 +5,5 @@ This repository consists of course material of a free online course on DSA for p
 ### Methods to figure out which algorithm to use:
 
 Binary Search: if the problem allows you to discard all possibilities lesser than a value when the current value faile, we can say that it follows the pattern of binary search
+
+Selections Sort: Use selection sort only if the size of the data structure is small as it has O(n^2) time complexity and O(1) space complexity
